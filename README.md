@@ -1,5 +1,7 @@
 # 2019-Legal-Tech-CLE
 
+![image](https://user-images.githubusercontent.com/10615650/62788117-465df680-ba94-11e9-9830-d6e5c9599fc9.png)
+
 ### Details
 Date: May 29, 2019, 8:30am to 5:00pm
 Venue: UMKC Law Thompson Courtroom
@@ -8,6 +10,7 @@ Fees:
 With CLE: $175 half day  //  $275 full day
 Without CLE: $30
 Breakfast and lunch included
+[http://www.kclegalhackers.org/2019-legal-tech-cle/](http://www.kclegalhackers.org/2019-legal-tech-cle/)
 
 ### Sessions
 
